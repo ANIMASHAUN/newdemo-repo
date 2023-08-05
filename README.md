@@ -1,3 +1,3 @@
 #demo
 
-let get started
+let get started.
